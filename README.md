@@ -24,8 +24,9 @@ Try it here: [Hugging Face Space](https://huggingface.co/spaces/adi-05/Medical_I
 
 ## 🛠️ Technologies Used
 
-Python
-scikit-learn
-Pandas, NumPy
-Matplotlib, Seaborn
-Hugging Face Spaces (for deployment)
+* Python
+* scikit-learn
+* Pandas, NumPy
+* EDA
+* Matplotlib, Seaborn
+* Hugging Face Spaces (for deployment)
