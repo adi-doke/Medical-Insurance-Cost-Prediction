@@ -10,6 +10,7 @@ The model learns patterns from key input features such as:
 * Children
 * Smoker status
 * Region
+
 This is a complete machine learning pipeline — from raw dataset to final ready-to-use predictive model.
 
 ## 🚀 Live Demo
